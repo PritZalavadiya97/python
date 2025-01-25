@@ -10,7 +10,7 @@ currentYear = 2025
 bornYear = 1997
 age = currentYear - bornYear
 a = "10.3"
-# b = 2.5
+b = 2.5
 
 
 print(type(name))
