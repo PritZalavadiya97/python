@@ -17,15 +17,15 @@ print(type(name))
 print(currentYear / bornYear)
 print("My Age is :", age)
 
+
 # Arithmetic Operators
-"""
 print(a + b)
 print(a - b)
 print(a * b)
 print(a / b)
 print(a ** b)
 print(a % b)
-"""
+
 
 # Relation Operators
 """
